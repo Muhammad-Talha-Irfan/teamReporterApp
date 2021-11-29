@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import './App.css';
 import {Route, Routes} from "react-router";
 import Login from "./pages/Login"
@@ -15,3 +16,5 @@ function App() {
 }
 
 export default App;
+=======
+>>>>>>> Stashed changes
