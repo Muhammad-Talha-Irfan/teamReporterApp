@@ -1,2 +1,0 @@
-# teamReporterApp
-Team Reporter App
